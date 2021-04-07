@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "notificador.email",
+      "type": "com.smart.esrfood.di.notificador.NotificadoProperties",
+      "sourceType": "com.smart.esrfood.di.notificador.NotificadoProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "notificador.email.host-servidor",
+      "type": "java.lang.String",
+      "description": "Host do servidor de E-mail",
+      "sourceType": "com.smart.esrfood.di.notificador.NotificadoProperties"
+    },
+    {
+      "name": "notificador.email.porta-servidor",
+      "type": "java.lang.Integer",
+      "description": "Porta do servidor de E-mail",
+      "sourceType": "com.smart.esrfood.di.notificador.NotificadoProperties"
+    }
+  ],
+  "hints": []
+}

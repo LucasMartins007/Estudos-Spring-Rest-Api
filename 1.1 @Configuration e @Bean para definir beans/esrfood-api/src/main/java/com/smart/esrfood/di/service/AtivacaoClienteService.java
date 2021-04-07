@@ -3,7 +3,7 @@ package com.smart.esrfood.di.service;
 import com.smart.esrfood.di.model.Cliente;
 import com.smart.esrfood.di.notificador.Notificador;
 
-public class AtivacaoClienteService {
+public class AtivacaoClienteService  {
 
 	private Notificador notificador;
 	
